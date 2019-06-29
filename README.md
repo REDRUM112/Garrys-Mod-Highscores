@@ -2,7 +2,7 @@
 
 # Ghighscores
 
-Thank you for purchasing Ghighscores. Here is a guide to get started, it will be setup in two parts. One for the Server and Website installation and one for the queries if you don't have mysql database prefixes you can ignore the second part of the installation.
+Here is a guide to get started, it will be setup in two parts. One for the Server and Website installation and one for the queries if you don't have mysql database prefixes you can ignore the second part of the installation.
 If you want to enable the DarkRP, Pointshop or Utime, you will need to checkout the second part of the setup guide.
 
 ## Getting Started

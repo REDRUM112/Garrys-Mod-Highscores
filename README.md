@@ -1,4 +1,4 @@
-[This page](https://gist.github.com/REDRUM112/dafc941d8fb23c16fa03f3928205120b)
+
 
 # Ghighscores
 
